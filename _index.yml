@@ -1,0 +1,63 @@
+---
+product-family:
+  title: Documentation BlueXP Workload Factory pour AWS
+  lead: BlueXP Workload Factory pour AWS est une plateforme puissante de gestion du
+    cycle de vie conçue pour vous aider à optimiser vos workloads avec Amazon FSX
+    pour NetApp ONTAP. Parcourez la documentation par type de charge de travail ou
+    utilisez la barre de recherche pour rechercher du contenu dans la documentation
+    Workload Factory.
+  summary: BlueXP Workload Factory pour AWS est une plateforme puissante de gestion
+    du cycle de vie conçue pour vous aider à optimiser vos workloads avec Amazon FSX
+    pour NetApp ONTAP. Parcourez la documentation par type de charge de travail ou
+    utilisez la barre de recherche pour rechercher du contenu dans la documentation
+    Workload Factory.
+  sidebarlinks:
+  - title: Tout
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: Configuration et administration
+    tags: admin
+  - title: Charges de travail
+    tags: workload
+  - title: Stockage
+    tags: storage
+  tiles:
+  - title: Configuration et administration
+    icon: "./media/icon-admin.png"
+    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    summary: Découvrez comment commencer à utiliser Workload Factory, gérer les identifiants
+      et utiliser Codebox pour l'automatisation.
+    tags: all,admin
+  - title: Amazon FSX pour NetApp ONTAP
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: Déployez et gérez les systèmes de fichiers FSX pour ONTAP afin d'utiliser
+      toutes les fonctionnalités d'ONTAP en tant que service natif géré par AWS.
+    tags: all,storage
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://console.workloads.netapp.com/api-doc
+    summary: Gérez par programmation vos ressources Workload Factory.
+    tags: all,api
+  - title: Charges de travail des bases de données
+    icon: "./media/icon-database.png"
+    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    summary: Déployez des bases de données de bout en bout grâce aux bonnes pratiques
+      intégrées d'optimisation à l'aide de FSX pour les systèmes de fichiers ONTAP
+      en tant que datastores externes.
+    tags: all,workload
+  - title: GenAI
+    icon: "./media/icon-ai.png"
+    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    summary: Intégrez les données de vos systèmes de fichiers FSX pour ONTAP à vos
+      plateformes MLOps et à vos modèles de base GenAI pour créer des chatbots fonctionnelles.
+    tags: all,workload
+  - title: Workloads VMware
+    icon: "./media/icon-vmware.png"
+    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    summary: Rationalisez les migrations des environnements vSphere sur site vers
+      VMware Cloud sur AWS et implémentez des systèmes de fichiers FSX pour ONTAP
+      personnalisés en tant que datastores externes.
+    tags: all,workload
