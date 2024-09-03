@@ -30,6 +30,11 @@ product-family:
     summary: Découvrez comment commencer à utiliser Workload Factory, gérer les identifiants
       et utiliser Codebox pour l'automatisation.
     tags: all,admin
+  - title: Notes de mise à jour
+    icon: "./media/icon-docs.png"
+    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    summary: Découvrez les nouveautés de l'usine de gestion des charges de travail.
+    tags: all
   - title: Amazon FSX pour NetApp ONTAP
     icon: "./media/icon-storage.png"
     url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
