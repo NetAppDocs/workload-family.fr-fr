@@ -1,6 +1,6 @@
 ---
 settings:
-  name: BlueXP Workload Factory for AWS
+  name: BlueXP workload factory
   platform: cloud
   search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai,workload-relnotes
   internal:
@@ -9,8 +9,8 @@ settings:
     pdf_enabled: false
     harmony_enabled: false
     lipi_enabled: false
-  langs: fr-fr,us-en,de-de,es-es,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
+  langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,it-it
 sidebar:
   entries:
-  - title: Toute la documentation Workload Factory
+  - title: Toute la documentation d'usine sur les charges de travail
     url: "/index.html"
