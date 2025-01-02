@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="6a7b2c9c4cec65ad972b108fa0a1192b" category="doc">Bénéficiez du support de FSX pour ONTAP</block>
-  <block id="3c6efe0ce159fb5b8ee4882bcf3ad973" category="paragraph">NetApp prend en charge Workload Factory et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
-  <block id="4435b263dd1a35bcd8dfda050db92b3b" category="paragraph">Pour obtenir un support technique concernant FSX for ONTAP, son infrastructure ou toute solution utilisant le service, reportez-vous à la section « obtention d'aide » de la documentation Workload Factory de ce produit.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX pour ONTAP</block>
   <block id="9d06990508d25d367d9158c6558eb9c8" category="paragraph"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="35f9849ffdd809bda11d0fc56e1e3583" category="paragraph">Pour bénéficier du support technique spécifique à Workload Factory et à ses solutions et services de stockage, utilisez les options de support décrites ci-dessous.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilisation d'options de support en libre-service</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentation</block>
-  <block id="d935525f4850c4638cbf48ae53fb4686" category="paragraph">La documentation Workload Factory que vous consultez actuellement.</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de connaissances</block>
   <block id="436f63b446dba5a418c698d49bd39718" category="list-text"><block ref="436f63b446dba5a418c698d49bd39718" category="inline-link-rx"></block></block>
-  <block id="ba6274b9c9d1f81bb3a648fa289986b8" category="paragraph">Recherchez dans la base de connaissances de Workload Factory des articles utiles pour résoudre les problèmes.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communautés</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="7faef90df03399696ba9d4815b37171a" category="paragraph">Rejoignez la communauté Workload Factory pour suivre les discussions en cours ou en créer de nouvelles.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Créez un dossier de demande de support auprès du support NetApp</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Outre les options d'auto-support mentionnées ci-dessus, vous pouvez travailler avec un spécialiste du support NetApp pour résoudre tous les problèmes après avoir activé le service de support.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Avant de commencer</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">Découvrez comment vous inscrire à de l'aide</block>
-  <block id="a12ea39ddf1c98adfd7f751299705efa" category="paragraph">Pour utiliser la fonction *Créer un cas*, vous devez d'abord vous inscrire au support. Associez vos informations d'identification du site de support NetApp à votre identifiant Workload Factory. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Étapes</block>
-  <block id="356c88ac4b0ec3f7689cc91f54701fef" category="list-text">Dans le coin supérieur droit de la console Workload Factory, sélectionnez *aide &gt; support*.</block>
   <block id="aadd86a3fadf19221852692c6e4adc2f" category="paragraph">La sélection de cette option ouvre un nouvel onglet de navigateur sur la console BlueXP et charge le tableau de bord de support.</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Sur la page *Ressources*, choisissez l'une des options disponibles sous support technique :</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Sélectionnez *appelez-nous* si vous souhaitez parler avec quelqu'un au téléphone. Vous serez dirigé vers une page netapp.com qui répertorie les numéros de téléphone que vous pouvez appeler.</block>
@@ -78,8 +71,6 @@
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Capture d'écran qui montre les actions que vous pouvez effectuer après avoir sélectionné le menu dans la dernière colonne du tableau.</block>
   <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">Présentation de l'inscription au support</block>
-  <block id="996ad73a480311d4f86d6946935389d2" category="paragraph">Le support doit être enregistré pour bénéficier du support technique spécifique à Workload Factory et à ses solutions et services de stockage. Vous devez vous inscrire au support depuis la console BlueXP, qui est une console web distincte de Workload Factory.</block>
-  <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">L'inscription au support n'active pas le support NetApp pour un service de fichiers de fournisseur cloud. Pour obtenir un support technique concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, reportez-vous à la section « obtention d'aide » de la documentation Workload Factory de ce produit.</block>
   <block id="d7e4bb081bf4ec4814d83edcfbdb8b96" category="paragraph">L'enregistrement de votre abonnement au support ID de compte (votre numéro de série 960xxxxxxxxx à 20 chiffres, disponible sur la page des ressources de support de BlueXP) sert d'ID d'abonnement au support. Chaque abonnement au support BlueXP au niveau du compte doit être enregistré.</block>
   <block id="f9e05c2b383e3f11e3b4bebbe8952225" category="paragraph">L'enregistrement permet de proposer des fonctionnalités telles que l'ouverture de tickets de support et la génération automatique de tickets de support. L'inscription est terminée en ajoutant des comptes du site de support NetApp (NSS) à BlueXP, comme décrit ci-dessous.</block>
   <block id="856edc4caec68fece6859c4be9360f3c" category="section-title">Enregistrez votre compte pour bénéficier du support NetApp</block>
@@ -140,4 +131,13 @@
   <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
   <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">Constructeurs</block>
   <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">Simplifiez l'utilisation des versions logicielles et l'accès à celles-ci en permettant l'intégration instantanée des clones avec les systèmes de contrôle des versions et les flux ci/CD, pour un gain de temps et de ressources.</block>
+  <block id="b6a4501cc05e54e2e5a513c3b552183a" category="paragraph">NetApp prend en charge de nombreuses manières l'usine de workloads BlueXP  et ses services cloud. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
+  <block id="261966eaf033c38f6934f2c8fc36d79c" category="paragraph">Pour obtenir un support technique concernant FSX for ONTAP, son infrastructure ou toute solution utilisant le service, reportez-vous à la section « obtention d'aide » de la documentation d'usine des charges de travail de ce produit.</block>
+  <block id="5b49df4e58e2a4750acd8bfa8687ccd6" category="paragraph">La documentation d'usine de la charge de travail que vous consultez actuellement.</block>
+  <block id="ba51332e265e54eb4295d6e7d057bad8" category="paragraph">Effectuez des recherches dans la base de connaissances de l'usine de workloads pour trouver des articles utiles permettant de résoudre les problèmes.</block>
+  <block id="fc3e8f3c2017c33d444d483913a485ba" category="paragraph">Rejoignez la communauté d'usines de charge de travail pour suivre les discussions en cours ou en créer de nouvelles.</block>
+  <block id="ffa18fada5deeeb1e533786297855e7d" category="paragraph">Pour utiliser la fonction *Créer un cas*, vous devez d'abord vous inscrire à l'assistance. Associez vos informations d'identification du site de support NetApp à votre identifiant d'usine de charge de travail. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>.</block>
+  <block id="e13a5649dfef3a1c76c4be8e463226d7" category="list-text">Dans le coin supérieur droit de la console d'usine de la charge de travail, sélectionnez *aide &gt; support*.</block>
+  <block id="ce638fcfafd4d79a49524062225d7fbc" category="paragraph">Le support doit être enregistré pour recevoir le support technique spécifique à l'usine de workloads BlueXP  ainsi qu'à ses solutions et services de stockage. Vous devez vous inscrire au support depuis la console BlueXP , qui est une console web distincte de la fabrique des charges de travail.</block>
+  <block id="2cbcc262b0a39ec19c5f69bffccb70fb" category="paragraph">L'inscription au support n'active pas le support NetApp pour un service de fichiers de fournisseur cloud. Pour obtenir de l'aide technique concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, reportez-vous à la section « obtention d'aide » de la documentation d'usine de la charge de travail de ce produit.</block>
 </blocks>
