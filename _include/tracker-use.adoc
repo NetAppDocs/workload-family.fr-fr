@@ -3,10 +3,10 @@
 
 
 [role="lead"]
-Surveillez et suivez l'exécution des opérations de la charge de travail et surveillez la progression des tâches avec le système de suivi en usine de la charge de travail BlueXP .
+Surveillez et suivez l’exécution des opérations de charge de travail et surveillez la progression des tâches avec Tracker dans NetApp Workload Factory.
 
 .Description de la tâche
-Workload Factory fournit le Tracker, une fonction de surveillance, qui vous permet de surveiller et de suivre la progression et l'état des opérations de charge de travail, d'examiner les détails des tâches et des sous-tâches opérationnelles, et de diagnostiquer les problèmes ou défaillances.
+NetApp Workload Factory fournit Tracker, une fonctionnalité de surveillance, qui vous permet de surveiller et de suivre la progression et l'état des opérations de charge de travail, d'examiner les détails des tâches et sous-tâches d'opération et de diagnostiquer les problèmes ou les pannes.
 
 Plusieurs actions sont disponibles dans Tracker. Vous pouvez filtrer les travaux par période (24 heures, 7 jours, 14 jours ou 30 jours), charge de travail, état et utilisateur, rechercher des travaux à l'aide de la fonction de recherche et télécharger la table des travaux sous forme de fichier CSV. Vous pouvez actualiser le Tracker à tout moment et réessayer rapidement une opération ayant échoué ou modifier les paramètres d'une opération ayant échoué et réessayer l'opération.
 
@@ -34,15 +34,12 @@ Conservation des événements:: Les événements sont conservés dans l'interfac
 
 == Suivez et surveillez les opérations
 
-Suivi et surveillance des opérations dans BlueXP  avec Tracker.
+Suivez et surveillez les opérations dans la console Workload Factory avec Tracker.
 
 .Étapes
 . Connectez-vous à l'aide de l'un des link:https://docs.netapp.com/us-en/workload-setup-admin/console-experiences.html["expériences de la console"^].
-. Dans la charge de travail, sélectionnez le menu des paramètres du compte, puis sélectionnez *Tracker*.
-+
-image:screenshot-menu-tracker-option.png["Capture d'écran du menu des paramètres du compte avec l'option Tracker mise en surbrillance."]
-
-. Dans l'onglet Tracker, utilisez les filtres ou la recherche pour affiner les résultats du travail. Vous pouvez également télécharger un rapport de travaux.
+. Dans le menu de charge de travail, sélectionnez *Administration* puis *Tracker*.
+. Dans Tracker, utilisez les filtres ou effectuez une recherche pour affiner les résultats des emplois.  Vous pouvez également télécharger un rapport sur les emplois.
 
 
 
@@ -53,7 +50,7 @@ Affichez la demande API dans la zone de code pour une tâche dans Tracker.
 
 .Étapes
 . Dans Tracker, sélectionnez une tâche.
-. Sélectionnez le menu à trois points, puis sélectionnez *Afficher demande API*.
+. Sélectionnez le menu Actions, puis sélectionnez *Afficher la demande API*.
 
 
 
@@ -67,7 +64,7 @@ NOTE: Vous pouvez réessayer une opération ayant échoué jusqu'à 10 fois.
 
 .Étapes
 . Dans Tracker, sélectionnez une opération ayant échoué.
-. Sélectionnez le menu à trois points, puis sélectionnez *Réessayer*.
+. Sélectionnez le menu Actions, puis sélectionnez *Réessayer*.
 
 
 .Résultat
@@ -81,7 +78,7 @@ Modifiez les paramètres de l'opération ayant échoué et relancez l'opération
 
 .Étapes
 . Dans Tracker, sélectionnez une opération ayant échoué.
-. Sélectionnez le menu à trois points, puis sélectionnez *Modifier et réessayer*.
+. Sélectionnez le menu Actions, puis sélectionnez *Modifier et réessayer*.
 +
 Vous êtes redirigé vers la page d'opération où vous pouvez modifier les paramètres et réessayer l'opération.
 
