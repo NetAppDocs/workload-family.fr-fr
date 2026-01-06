@@ -40,12 +40,12 @@ product-family:
     url: https://console.workloads.netapp.com/api-doc
     summary: Administrez par programmation vos ressources Workload Factory.
     tags: all,api
-  - title: Constructeurs
+  - title: EDA
     icon: "./media/icon-builders.png"
     url: "../workload-builders/index.html"
-    summary: Simplifiez l'utilisation des versions logicielles et l'accès à celles-ci
-      en permettant l'intégration instantanée des clones avec les systèmes de contrôle
-      des versions et les flux ci/CD, pour un gain de temps et de ressources.
+    summary: Optimisez FSx pour ONTAP sur plusieurs systèmes de fichiers afin d'améliorer
+      les performances et de réduire les coûts opérationnels grâce à une gestion automatisée
+      des paramètres de stockage.
     tags: all,workload
   - title: Les bases de données
     icon: "./media/icon-database.png"

@@ -105,8 +105,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">Les bases de données</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
-  <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">Constructeurs</block>
-  <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">Simplifiez l'utilisation des versions logicielles et l'accès à celles-ci en permettant l'intégration instantanée des clones avec les systèmes de contrôle des versions et les flux ci/CD, pour un gain de temps et de ressources.</block>
   <block id="cfd98e00a6e308c04ab9f76a854b6989" category="doc">Suivez et surveillez les opérations</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">Description de la tâche</block>
   <block id="4a60367cb1382179b571e891381eaf8d" category="paragraph">Plusieurs actions sont disponibles dans Tracker. Vous pouvez filtrer les travaux par période (24 heures, 7 jours, 14 jours ou 30 jours), charge de travail, état et utilisateur, rechercher des travaux à l'aide de la fonction de recherche et télécharger la table des travaux sous forme de fichier CSV. Vous pouvez actualiser le Tracker à tout moment et réessayer rapidement une opération ayant échoué ou modifier les paramètres d'une opération ayant échoué et réessayer l'opération.</block>
@@ -186,4 +184,6 @@
   <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Découvrez les nouveautés de Workload Factory.</block>
   <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Administrez par programmation vos ressources Workload Factory.</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Toute la documentation de Workload Factory</block>
+  <block id="81f1b99be9951f3725aa3dd62766099e" category="sidebar">EDA</block>
+  <block id="d9c8047218c7f33bcf7a55b46924a47b" category="sidebar">Optimisez FSx pour ONTAP sur plusieurs systèmes de fichiers afin d'améliorer les performances et de réduire les coûts opérationnels grâce à une gestion automatisée des paramètres de stockage.</block>
 </blocks>
