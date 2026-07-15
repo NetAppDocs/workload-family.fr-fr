@@ -6,6 +6,7 @@ NetApp fournit un support pour Workload Factory et ses services cloud de diverse
 
 
 
+[[get-support-for-fsx-for-ontap]]
 == Bénéficiez du support de FSX pour ONTAP
 
 Pour obtenir une assistance technique relative à FSx for ONTAP, à son infrastructure ou à toute solution utilisant le service, reportez-vous à « Obtenir de l'aide » dans la documentation Workload Factory de ce produit.
@@ -16,6 +17,7 @@ Pour bénéficier du support technique spécifique à Workload Factory et à ses
 
 
 
+[[use-self-support-options]]
 == Utilisation d'options de support en libre-service
 
 Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :
@@ -36,6 +38,7 @@ Rejoignez la communauté Workload Factory pour suivre les discussions en cours o
 
 
 
+[[create-a-case-with-netapp-support]]
 == Créez un dossier de demande de support auprès du support NetApp
 
 Outre les options d'auto-support mentionnées ci-dessus, vous pouvez travailler avec un spécialiste du support NetApp pour résoudre tous les problèmes après avoir activé le service de support.
@@ -90,6 +93,7 @@ Cette erreur peut signifier que le compte NSS et la société d'enregistrement �
 
 
 
+[[manage-your-support-cases-preview]]
 == Gestion de vos dossiers de demande de support (aperçu)
 
 Vous pouvez afficher et gérer les cas de support actifs et résolus directement depuis la console NetApp . Vous pouvez gérer les cas associés à votre compte NSS et à votre entreprise.
