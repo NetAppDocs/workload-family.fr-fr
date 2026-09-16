@@ -59,3 +59,9 @@ product-family:
       VMware Cloud sur AWS et implémentez des systèmes de fichiers FSX pour ONTAP
       personnalisés en tant que datastores externes.
     tags: all,workload
+  - title: Sécurité de l'information
+    url: "../workload-infosec/index.html"
+    summary: Découvrez les fonctionnalités de sécurité de Workload Factory et comment
+      évaluer et intégrer la plateforme pour répondre aux exigences de sécurité des
+      entreprises.
+    tags: all,workload
